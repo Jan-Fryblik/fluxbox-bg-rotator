@@ -6,7 +6,10 @@ further selection. When there is no image to be displayed, file storage is delet
 process starts all over again.
 
 Default image rotation is 10 minutes.
+
 Default image directory is `$HOME/wallpapers`
+
+**NOTE:** Script can be easily customized for any other window manager.
 
 
 Usage:
