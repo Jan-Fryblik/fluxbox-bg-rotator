@@ -14,8 +14,7 @@ Default image directory is `$HOME/wallpapers`
 
 Usage:
 
-1. Edit script file
-2. Set directory with wallpapes
+1. Edit script file and set directory with wallpapers `WALLPAPERDIR`
 3. Edit *.fluxbox/startup* file and put the following code before `exec fluxbox` line.
 
 ```
