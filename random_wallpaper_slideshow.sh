@@ -6,8 +6,7 @@
 #
 #
 # Created: 1.11.2017
-# Author: Jan Fryblik
-# Email: jan.fryblik@ebrothers.cz
+# Author: Jan Fryblik jan.fryblik(at)ebrothers.cz
 
 WALLPAPERDIR="$HOME/wallpapers"
 SHOWN_FILES_PATH="$HOME/.fluxbox/shown_indexes.data"
@@ -42,7 +41,7 @@ then
 			#echo "Delete ${SHOWN_FILES_PATH}..."
 		fi
 
-		# find all files which hasn't been shown
+		# find all files which haven't been shown
 		unshown_files=()
 		counter=0;
 		for file in ${all_files[*]}; do
